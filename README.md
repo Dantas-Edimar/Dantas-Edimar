@@ -1,5 +1,3 @@
-<h1 align="center">Edimar Dantas</h1>
-
 <p align="center">
   <strong>Diretor Administrativo e Financeiro</strong><br>
   Pró-Reitoria de Pós-Graduação (PRPG) · Universidade Federal de Goiás (UFG)
@@ -33,15 +31,15 @@ Tenho crescente interesse em usar tecnologia para modernizar a gestão pública:
 
 #### Sistema DAF — Gestão Administrativa e Financeira
 Sistema de apoio à gestão administrativa e financeira da PRPG/UFG: acompanhamento orçamentário, execução de projetos, controle de contratos e apoio à prestação de contas, centralizando informações antes dispersas em planilhas.
-<br>🔒 *Código privado* · *(adicione aqui um print da tela, se quiser)*
+<br>🔒 *Código privado* · 
 
 #### SGIU — Gestão da Internacionalização · QALEPH × CAPES-Global.edu (Rede GAIA)
 Sistema de Gestão da Internacionalização Universitária, desenvolvido em parceria com a QALEPH para as redes do Programa CAPES-Global.edu, como a Rede GAIA (UFG). Planejamento, acompanhamento e indicadores das ações de internacionalização da pós-graduação.
-<br>🔒 *Código privado* · *(print ou link da demonstração)*
+<br>🔒 *Código privado* ·
 
 #### Gerenciador de Demandas
 Ferramenta para registro, triagem e acompanhamento das demandas administrativas da equipe — organização por fluxos, status e histórico, dando previsibilidade e rastreabilidade ao atendimento interno.
-<br>🔒 *Código privado* · *(print ou link da demonstração)*
+<br>🔒 *Código privado* · 
 
 > Projeto público: **[flore-ser-site](https://github.com/Dantas-Edimar/flore-ser-site)** — site de divulgação e painel institucional (UFG).
 
