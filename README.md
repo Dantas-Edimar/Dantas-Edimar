@@ -1,9 +1,4 @@
 <p align="center">
-  <strong>Diretor Administrativo e Financeiro</strong><br>
-  Pró-Reitoria de Pós-Graduação (PRPG) · Universidade Federal de Goiás (UFG)
-</p>
-
-<p align="center">
   <a href="mailto:edimardantas@ufg.br">
     <img src="https://img.shields.io/badge/E--mail-edimardantas%40ufg.br-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
   </a>
